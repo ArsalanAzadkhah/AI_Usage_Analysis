@@ -1,4 +1,10 @@
-🗂️ Project Structure
+📖 #Project Overview
+
+This project analyzes the usage of AI tools among students in a school, exploring patterns across grades, fields of study, and devices. The goal is to uncover insights about AI adoption and its perceived usefulness among students.
+
+
+
+🗂️ #Project Structure
 
 schema.sql
 Defines the database schema: tables for student info, AI tool usage, and ratings.
@@ -19,10 +25,9 @@ Identify the most popular AI tools per grade
 
 Calculate average usefulness ratings per tool
 
-screenshots/ (optional)
-Visualizations and screenshots for better understanding of analysis results.
 
-🔑 Key Insights
+
+🔑 #Key Insights
 
 8th-grade students show the highest AI tool adoption.
 
@@ -34,7 +39,9 @@ ChatGPT and Notion AI are perceived as the most useful tools; Phind scores lower
 
 Data helps reveal patterns in AI adoption and informs which tools are effective for different student groups.
 
-🚀 How to Use This Project
+
+
+🚀 #How to Use This Project
 
 Run schema.sql to create the database structure.
 
@@ -42,16 +49,6 @@ Execute data_cleaning.sql to prepare and standardize the data.
 
 Run analysis.sql to generate reports and insights.
 
-Check screenshots/ for charts and visualizations.
+Check screenshots/ for tables and the results.
 
-📊 Optional Visualizations
 
-Include graphs like:
-
-AI tool usage per grade
-
-Average usefulness rating per AI tool
-
-Device usage distribution
-
-(Add your screenshots in the screenshots/ folder and reference them here.)
