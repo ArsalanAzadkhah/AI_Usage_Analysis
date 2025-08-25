@@ -1,6 +1,6 @@
 # 📖 Project Overview
 
-This project analyzes the usage of AI tools among students in the school, exploring patterns across grades, fields of study, and devices. The goal is to uncover insights about AI adoption and its perceived usefulness among students.
+- This project analyzes the usage of AI tools among students in the school, exploring patterns across grades, fields of study, and devices. The goal is to uncover insights about AI adoption and its perceived usefulness among students.
 The dataset originally contained student information; however, **due to confidentiality, all student names have been removed**
 ---
 
